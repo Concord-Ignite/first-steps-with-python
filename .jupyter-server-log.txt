@@ -112,3 +112,8 @@ TermSocket.open: Opened 1
 [I 19:34:22.048 NotebookApp] New terminal with automatic name: 2
 TermSocket.open: 2
 TermSocket.open: Opened 2
+[I 19:35:13.261 NotebookApp] Saving file at /first-steps-with-python.ipynb
+Websocket closed
+[I 19:36:52.619 NotebookApp] New terminal with automatic name: 3
+TermSocket.open: 3
+TermSocket.open: Opened 3
