@@ -72,3 +72,43 @@ TermSocket.open: Opened 1
 [I 18:06:02.760 NotebookApp] New terminal with automatic name: 1
 TermSocket.open: 1
 TermSocket.open: Opened 1
+[W 18:11:11.576 NotebookApp] Notebook first-steps-with-python.ipynb is not trusted
+[I 18:11:12.927 NotebookApp] Kernel started: f9da39c3-37b9-4913-bf1b-684ace062c44, name: python3
+[I 18:11:12.928 NotebookApp] Culling kernels with idle durations > 600 seconds at 60 second intervals ...
+[I 18:11:12.928 NotebookApp] Culling kernels even with connected clients
+[I 18:11:29.378 NotebookApp] Starting buffering for f9da39c3-37b9-4913-bf1b-684ace062c44:7af6a81f2ae44d92a1ffcc090a9c8adb
+[I 18:11:29.600 NotebookApp] Kernel restarted: f9da39c3-37b9-4913-bf1b-684ace062c44
+[I 18:11:29.965 NotebookApp] Restoring connection for f9da39c3-37b9-4913-bf1b-684ace062c44:7af6a81f2ae44d92a1ffcc090a9c8adb
+[I 18:11:30.153 NotebookApp] Replaying 3 buffered messages
+[I 18:13:13.031 NotebookApp] Saving file at /first-steps-with-python.ipynb
+[I 18:15:13.307 NotebookApp] Saving file at /first-steps-with-python.ipynb
+[I 18:19:13.318 NotebookApp] Saving file at /first-steps-with-python.ipynb
+[W 18:22:12.929 NotebookApp] Culling 'idle' kernel 'python3' (f9da39c3-37b9-4913-bf1b-684ace062c44) with 1 connections due to 642 seconds of inactivity.
+[I 18:22:12.930 NotebookApp] Kernel shutdown: f9da39c3-37b9-4913-bf1b-684ace062c44
+[W 18:22:13.864 NotebookApp] 410 DELETE /user/aryannaik123-fi-eps-with-python-wpfzo6ra/api/sessions/566e911a-5e3f-44b9-9d4f-bfe4569dcd29 (69.132.62.215): Kernel deleted before session
+[W 18:22:13.864 NotebookApp] Kernel deleted before session
+[W 18:22:13.864 NotebookApp] 410 DELETE /user/aryannaik123-fi-eps-with-python-wpfzo6ra/api/sessions/566e911a-5e3f-44b9-9d4f-bfe4569dcd29 (69.132.62.215) 2.260000ms referer=https://hub-binder.mybinder.ovh/user/aryannaik123-fi-eps-with-python-wpfzo6ra/notebooks/first-steps-with-python.ipynb
+[W 18:30:39.482 NotebookApp] 404 DELETE /user/aryannaik123-fi-eps-with-python-wpfzo6ra/api/sessions/566e911a-5e3f-44b9-9d4f-bfe4569dcd29 (69.132.62.215): Session not found: session_id='566e911a-5e3f-44b9-9d4f-bfe4569dcd29'
+[W 18:30:39.483 NotebookApp] Session not found: session_id='566e911a-5e3f-44b9-9d4f-bfe4569dcd29'
+[W 18:30:39.483 NotebookApp] 404 DELETE /user/aryannaik123-fi-eps-with-python-wpfzo6ra/api/sessions/566e911a-5e3f-44b9-9d4f-bfe4569dcd29 (69.132.62.215) 2.530000ms referer=https://hub-binder.mybinder.ovh/user/aryannaik123-fi-eps-with-python-wpfzo6ra/notebooks/first-steps-with-python.ipynb
+[I 18:30:39.638 NotebookApp] Kernel started: 34c514ff-a914-4886-a10c-9a8971426a55, name: python3
+[I 18:30:46.179 NotebookApp] Saving file at /first-steps-with-python.ipynb
+[I 18:31:13.066 NotebookApp] Saving file at /first-steps-with-python.ipynb
+[I 18:33:13.584 NotebookApp] Saving file at /first-steps-with-python.ipynb
+[W 18:41:12.933 NotebookApp] Culling 'idle' kernel 'python3' (34c514ff-a914-4886-a10c-9a8971426a55) with 1 connections due to 632 seconds of inactivity.
+[I 18:41:12.936 NotebookApp] Kernel shutdown: 34c514ff-a914-4886-a10c-9a8971426a55
+[W 18:41:13.889 NotebookApp] 410 DELETE /user/aryannaik123-fi-eps-with-python-wpfzo6ra/api/sessions/c0259996-89db-4fda-9b8a-9031ea8d660c (69.132.62.215): Kernel deleted before session
+[W 18:41:13.889 NotebookApp] Kernel deleted before session
+[W 18:41:13.890 NotebookApp] 410 DELETE /user/aryannaik123-fi-eps-with-python-wpfzo6ra/api/sessions/c0259996-89db-4fda-9b8a-9031ea8d660c (69.132.62.215) 3.210000ms referer=https://hub-binder.mybinder.ovh/user/aryannaik123-fi-eps-with-python-wpfzo6ra/notebooks/first-steps-with-python.ipynb
+[W 19:24:11.585 NotebookApp] 404 DELETE /user/aryannaik123-fi-eps-with-python-wpfzo6ra/api/sessions/c0259996-89db-4fda-9b8a-9031ea8d660c (69.132.62.215): Session not found: session_id='c0259996-89db-4fda-9b8a-9031ea8d660c'
+[W 19:24:11.585 NotebookApp] Session not found: session_id='c0259996-89db-4fda-9b8a-9031ea8d660c'
+[W 19:24:11.586 NotebookApp] 404 DELETE /user/aryannaik123-fi-eps-with-python-wpfzo6ra/api/sessions/c0259996-89db-4fda-9b8a-9031ea8d660c (69.132.62.215) 2.840000ms referer=https://hub-binder.mybinder.ovh/user/aryannaik123-fi-eps-with-python-wpfzo6ra/notebooks/first-steps-with-python.ipynb
+[I 19:24:11.718 NotebookApp] Kernel started: 423dd00a-0cf3-4821-b4b0-1d825d1c70c2, name: python3
+[I 19:25:13.363 NotebookApp] Saving file at /first-steps-with-python.ipynb
+[I 19:27:12.984 NotebookApp] Saving file at /first-steps-with-python.ipynb
+[I 19:29:13.005 NotebookApp] Saving file at /first-steps-with-python.ipynb
+[I 19:31:12.994 NotebookApp] Saving file at /first-steps-with-python.ipynb
+[I 19:33:12.997 NotebookApp] Saving file at /first-steps-with-python.ipynb
+[I 19:34:22.048 NotebookApp] New terminal with automatic name: 2
+TermSocket.open: 2
+TermSocket.open: Opened 2
