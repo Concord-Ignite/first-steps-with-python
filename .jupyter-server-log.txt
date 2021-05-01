@@ -158,3 +158,77 @@ TermSocket.open: 2
 TermSocket.open: Opened 2
 [I 19:31:30.617 NotebookApp] Saving file at /first-steps-with-python.ipynb
 [I 19:31:37.071 NotebookApp] Saving file at /first-steps-with-python.ipynb
+[W 2021-05-01 19:55:34.679 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-05-01 19:55:34.679 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-05-01 19:55:34.679 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-05-01 19:55:34.679 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-05-01 19:55:34.679 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-05-01 19:55:34.679 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-05-01 19:55:34.679 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-05-01 19:55:34.679 LabApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-05-01 19:55:34.679 LabApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-05-01 19:55:34.679 LabApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-05-01 19:55:34.679 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-05-01 19:55:34.679 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2021-05-01 19:55:34.694 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/jupyterlab
+[I 2021-05-01 19:55:34.694 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 19:55:34.710 NotebookApp] nteract extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/nteract_on_jupyter
+[I 19:55:34.713 NotebookApp] Will shut down after 600 seconds with no kernels or terminals.
+[I 19:55:34.715 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[I 19:55:34.715 NotebookApp] Jupyter Notebook 6.2.0 is running at:
+[I 19:55:34.716 NotebookApp] http://jupyter-aryannaik123-2dfi-2deps-2dwith-2dpython-2dxdycb5nz:8888/user/aryannaik123-fi-eps-with-python-xdycb5nz/?token=...
+[I 19:55:34.716 NotebookApp]  or http://127.0.0.1:8888/user/aryannaik123-fi-eps-with-python-xdycb5nz/?token=...
+[I 19:55:34.717 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 19:55:34.725 NotebookApp] No web browser found: could not locate runnable browser.
+[I 19:55:34.733 NotebookApp] 302 GET /user/aryannaik123-fi-eps-with-python-xdycb5nz/ (10.0.1.13) 5.260000ms
+[I 19:55:37.031 NotebookApp] 302 GET /user/aryannaik123-fi-eps-with-python-xdycb5nz/?token=bMWUgMF7Tu69e_pwEJrafQ (69.132.62.215) 0.730000ms
+[I 19:55:44.989 NotebookApp] Kernel started: 72e18e1f-bb20-4314-b401-3070fc3380b1, name: python3
+[I 19:55:44.989 NotebookApp] Culling kernels with idle durations > 600 seconds at 60 second intervals ...
+[I 19:55:44.989 NotebookApp] Culling kernels even with connected clients
+[I 19:57:46.004 NotebookApp] Saving file at /first-steps-with-python.ipynb
+[W 20:06:44.992 NotebookApp] Culling 'idle' kernel 'python3' (72e18e1f-bb20-4314-b401-3070fc3380b1) with 1 connections due to 659 seconds of inactivity.
+[I 20:06:45.004 NotebookApp] Kernel shutdown: 72e18e1f-bb20-4314-b401-3070fc3380b1
+[W 20:06:45.559 NotebookApp] 410 DELETE /user/aryannaik123-fi-eps-with-python-xdycb5nz/api/sessions/82018cb7-6c9a-4f45-b318-6c2024233fe1 (69.132.62.215): Kernel deleted before session
+[W 20:06:45.559 NotebookApp] Kernel deleted before session
+[W 20:06:45.559 NotebookApp] 410 DELETE /user/aryannaik123-fi-eps-with-python-xdycb5nz/api/sessions/82018cb7-6c9a-4f45-b318-6c2024233fe1 (69.132.62.215) 1.920000ms referer=https://hub.gke2.mybinder.org/user/aryannaik123-fi-eps-with-python-xdycb5nz/notebooks/first-steps-with-python.ipynb
+[W 20:06:47.276 NotebookApp] 404 DELETE /user/aryannaik123-fi-eps-with-python-xdycb5nz/api/sessions/82018cb7-6c9a-4f45-b318-6c2024233fe1 (69.132.62.215): Session not found: session_id='82018cb7-6c9a-4f45-b318-6c2024233fe1'
+[W 20:06:47.276 NotebookApp] Session not found: session_id='82018cb7-6c9a-4f45-b318-6c2024233fe1'
+[W 20:06:47.277 NotebookApp] 404 DELETE /user/aryannaik123-fi-eps-with-python-xdycb5nz/api/sessions/82018cb7-6c9a-4f45-b318-6c2024233fe1 (69.132.62.215) 1.720000ms referer=https://hub.gke2.mybinder.org/user/aryannaik123-fi-eps-with-python-xdycb5nz/notebooks/first-steps-with-python.ipynb
+[I 20:06:47.353 NotebookApp] Kernel started: dabd40e8-81a4-427c-93c1-79d5db1afca5, name: python3
+[I 20:13:45.011 NotebookApp] Saving file at /first-steps-with-python.ipynb
+[I 20:15:45.013 NotebookApp] Saving file at /first-steps-with-python.ipynb
+[I 20:17:45.091 NotebookApp] Saving file at /first-steps-with-python.ipynb
+[I 20:19:45.015 NotebookApp] Saving file at /first-steps-with-python.ipynb
+[I 20:21:45.035 NotebookApp] Saving file at /first-steps-with-python.ipynb
+[I 20:25:44.999 NotebookApp] Saving file at /first-steps-with-python.ipynb
+[I 20:27:44.997 NotebookApp] Saving file at /first-steps-with-python.ipynb
+[I 20:29:45.009 NotebookApp] Saving file at /first-steps-with-python.ipynb
+[I 20:31:45.024 NotebookApp] Saving file at /first-steps-with-python.ipynb
+[I 20:33:44.999 NotebookApp] Saving file at /first-steps-with-python.ipynb
+[I 20:35:45.012 NotebookApp] Saving file at /first-steps-with-python.ipynb
+[I 20:37:45.015 NotebookApp] Saving file at /first-steps-with-python.ipynb
+[I 20:39:45.017 NotebookApp] Saving file at /first-steps-with-python.ipynb
+[I 20:41:45.023 NotebookApp] Saving file at /first-steps-with-python.ipynb
+[I 20:43:45.010 NotebookApp] Saving file at /first-steps-with-python.ipynb
+[I 20:47:44.997 NotebookApp] Saving file at /first-steps-with-python.ipynb
+[W 20:49:44.991 NotebookApp] Culling 'idle' kernel 'python3' (dabd40e8-81a4-427c-93c1-79d5db1afca5) with 1 connections due to 608 seconds of inactivity.
+[I 20:49:44.991 NotebookApp] Kernel shutdown: dabd40e8-81a4-427c-93c1-79d5db1afca5
+[I 20:49:45.399 NotebookApp] Saving file at /first-steps-with-python.ipynb
+[W 20:49:45.493 NotebookApp] 410 DELETE /user/aryannaik123-fi-eps-with-python-xdycb5nz/api/sessions/26cd1fc3-b857-43e9-a389-df7cf8d67082 (69.132.62.215): Kernel deleted before session
+[W 20:49:45.494 NotebookApp] Kernel deleted before session
+[W 20:49:45.494 NotebookApp] 410 DELETE /user/aryannaik123-fi-eps-with-python-xdycb5nz/api/sessions/26cd1fc3-b857-43e9-a389-df7cf8d67082 (69.132.62.215) 1.660000ms referer=https://hub.gke2.mybinder.org/user/aryannaik123-fi-eps-with-python-xdycb5nz/notebooks/first-steps-with-python.ipynb
+[W 20:49:48.992 NotebookApp] 404 DELETE /user/aryannaik123-fi-eps-with-python-xdycb5nz/api/sessions/26cd1fc3-b857-43e9-a389-df7cf8d67082 (69.132.62.215): Session not found: session_id='26cd1fc3-b857-43e9-a389-df7cf8d67082'
+[W 20:49:48.993 NotebookApp] Session not found: session_id='26cd1fc3-b857-43e9-a389-df7cf8d67082'
+[W 20:49:48.993 NotebookApp] 404 DELETE /user/aryannaik123-fi-eps-with-python-xdycb5nz/api/sessions/26cd1fc3-b857-43e9-a389-df7cf8d67082 (69.132.62.215) 1.770000ms referer=https://hub.gke2.mybinder.org/user/aryannaik123-fi-eps-with-python-xdycb5nz/notebooks/first-steps-with-python.ipynb
+[I 20:49:49.058 NotebookApp] Kernel started: 2f72b75d-82b4-4c48-bc7e-3572cfbda051, name: python3
+[I 20:51:45.019 NotebookApp] Saving file at /first-steps-with-python.ipynb
+[I 20:55:45.022 NotebookApp] Saving file at /first-steps-with-python.ipynb
+[I 20:57:44.999 NotebookApp] Saving file at /first-steps-with-python.ipynb
+[I 20:59:45.169 NotebookApp] Saving file at /first-steps-with-python.ipynb
+[I 21:01:45.018 NotebookApp] Saving file at /first-steps-with-python.ipynb
+[I 21:03:45.004 NotebookApp] Saving file at /first-steps-with-python.ipynb
+[I 21:12:05.423 NotebookApp] Saving file at /first-steps-with-python.ipynb
+[I 21:13:02.422 NotebookApp] Saving file at /first-steps-with-python.ipynb
+[I 21:13:17.435 NotebookApp] New terminal with automatic name: 1
+TermSocket.open: 1
+TermSocket.open: Opened 1
